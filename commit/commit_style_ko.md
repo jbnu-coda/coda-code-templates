@@ -1,5 +1,7 @@
 # 시맨틱 커밋 메세지 - 확장판
 
+[English](https://github.com/jbnu-coda/coda-code-templates/blob/main/commit/commit_style.md) | [한글](https://github.com/jbnu-coda/coda-code-templates/blob/main/commit/commit_style_ko.md)
+
 커밋 메시지 스타일을 조금만 변경해도 어떻게 더 나은 프로그래머가 될 수 있는지 알아보세요.
 
 명확한 범위 표시를 중간에 추가함으로서 더욱 쉽게 알 수 있습니다.

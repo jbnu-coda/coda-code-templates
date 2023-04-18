@@ -1,5 +1,7 @@
 # Semantic Commit Messages - Extended
 
+[English](https://github.com/jbnu-coda/coda-code-templates/blob/main/commit/commit_style.md) | [한글](https://github.com/jbnu-coda/coda-code-templates/blob/main/commit/commit_style_ko.md)
+
 See how a minor change to your commit message style can make you a better programmer.
 
 Adding a clear range indicator in the middle makes it even easier to see.
